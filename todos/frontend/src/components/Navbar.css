@@ -1,0 +1,25 @@
+.container {
+    height: 80px;
+    background-color: darkslategray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: azure;
+}
+
+.logo {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.navitems {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.navitems a {
+    color: azure;
+    text-decoration: none;
+}

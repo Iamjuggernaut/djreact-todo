@@ -1,0 +1,13 @@
+.footer-container {
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(11, 11, 11);
+    color: azure;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
